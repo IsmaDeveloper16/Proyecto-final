@@ -5,10 +5,6 @@
 ## Conetexto
 ![Alt text](/Images/image-1.png).
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c2f5d6ed4dcf2f9289366f65835ed679687beeb8
 La empresa "NewYorkDrive" busca expandirse al transporte de pasajeros con automóviles, explorando la viabilidad de incorporar vehículos eléctricos para reducir la contaminación y mejorar la calidad del aire y sonido en la ciudad de Nueva York.
 
 Este proyecto tiene como objetivo respaldar la toma de decisiones de "NewYorkDrive" para implementar una nueva línea de transporte. Se llevará a cabo una investigación exhaustiva utilizando datos de alta calidad para analizar las características fundamentales que influirán en estas decisiones.
