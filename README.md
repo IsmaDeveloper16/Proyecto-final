@@ -16,12 +16,12 @@ Este proyecto tiene como objetivo respaldar la toma de decisiones de "NewYorkDri
 - [Alcance](https://github.com/IsmaDeveloper16/Proyecto-final#Alcance)
 - [Stack Tecnológico](https://github.com/IsmaDeveloper16/Proyecto-final#Stack-Tecnológico)
 - [Diagrama de entidad - relación](https://github.com/IsmaDeveloper16/Proyecto-final#Diagrama-de-entidad---relación)
-
-
+- [KPIs](https://github.com/IsmaDeveloper16/Proyecto-final#KPIs)
+- [Conclusión](https://github.com/IsmaDeveloper16/Proyecto-final#Conclusión)
 
 ## Equipo de Trabajo
 
-![Alt text](/Images/image.png)
+![Alt text](./Images/image.png)
 
 ## Metodología de Trabajo
 
@@ -53,8 +53,6 @@ Hemos adoptado la metodología ágil Scrum, utilizando herramientas como Trello 
 - **Vertex AI**
 
 ![Alt text](./Images/image22.png)
-
-
 
 ## Diagrama de entidad - relación
 
