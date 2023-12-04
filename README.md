@@ -22,7 +22,7 @@ Este proyecto tiene como objetivo respaldar la toma de decisiones de "NewYorkDri
 
 ## Equipo de Trabajo
 
-![Alt text](./Images/imag.png)
+![Alt text](./Images/image.png)
 
 ## Metodología de Trabajo
 
@@ -34,7 +34,7 @@ Hemos adoptado la metodología ágil Scrum, utilizando herramientas como Trello 
     
 - Semana 3: Etapa final. Se completa principalmente el dashboard y se presenta el producto de Machine Learning. Además se realiza la entrega de la documentación y del repositorio completo.
 
-![Alt text](./Images/image22.png)
+![Alt text](./Images/image11.png)
 
 
 ## Alcance
@@ -58,8 +58,7 @@ Hemos adoptado la metodología ágil Scrum, utilizando herramientas como Trello 
 ## Diagrama de entidad - relación
 
 A continuación se presenta el diagrama entidad - relación del modelo presente en nuestro datawarehouse, Big Query.
-![Alt text](/Images/image-2.png)
-
+![Alt text](./Images/er.png)
 ## KPIs
 
 Entre los KPIs que seguimos se encuentran:
