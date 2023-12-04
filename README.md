@@ -3,7 +3,8 @@
 
 
 ## Conetexto
-![Alt text](/Images/image-1.png)
+![Alt text](/Images/image-1.png).
+
 La empresa "NewYorkDrive" busca expandirse al transporte de pasajeros con automóviles, explorando la viabilidad de incorporar vehículos eléctricos para reducir la contaminación y mejorar la calidad del aire y sonido en la ciudad de Nueva York.
 
 Este proyecto tiene como objetivo respaldar la toma de decisiones de "NewYorkDrive" para implementar una nueva línea de transporte. Se llevará a cabo una investigación exhaustiva utilizando datos de alta calidad para analizar las características fundamentales que influirán en estas decisiones.
@@ -33,6 +34,7 @@ Hemos adoptado la metodología ágil Scrum, utilizando herramientas como Trello 
     
 - Semana 3: Etapa final. Se completa principalmente el dashboard y se presenta el producto de Machine Learning. Además se realiza la entrega de la documentación y del repositorio completo.
 
+![Alt text](./Images/image22.png)
 
 
 ## Alcance
@@ -52,7 +54,6 @@ Hemos adoptado la metodología ágil Scrum, utilizando herramientas como Trello 
 - **Power BI**
 - **Vertex AI**
 
-![Alt text](./Images/image22.png)
 
 ## Diagrama de entidad - relación
 
