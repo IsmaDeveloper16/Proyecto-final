@@ -21,7 +21,7 @@ Este proyecto tiene como objetivo respaldar la toma de decisiones de "NewYorkDri
 
 ## Equipo de Trabajo
 
-![Alt text](./Images/image.png)
+![Alt text](./Images/imag.png)
 
 ## Metodología de Trabajo
 
