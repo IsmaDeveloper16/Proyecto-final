@@ -74,12 +74,12 @@ Entre los KPIs que seguimos se encuentran:
 
 ![roi](./Images/roi.png)
 
-- Reducción de emisión de carbono
+- Reducción de emisión de carbono.
     - La Reducción de Emisiones es un indicador clave de rendimiento que evalúa la efectividad de las medidas adoptadas para reducir las emisiones generadas por los vehículos de combustión.
 
 ![combustion](./Images/combustion.png)
 
-- Eficiencia de las rutas
+- Eficiencia de las rutas.
     - Nos enfocamos en evaluar la eficiencia de las rutas de los taxis, con el objetivo de optimizar la distancia promedio recorrida por cada viaje.
 
 ![Distancia](./Images/Distancia.png)
