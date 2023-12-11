@@ -7,7 +7,7 @@
 
 La empresa "NewYorkDrive" busca expandirse al transporte de pasajeros con automóviles, explorando la viabilidad de incorporar vehículos eléctricos para reducir la contaminación y mejorar la calidad del aire y sonido en la ciudad de Nueva York.
 
-Este proyecto tiene como objetivo respaldar la toma de decisiones de "NewYorkDrive" para implementar una nueva línea de transporte. Se llevará a cabo una investigación exhaustiva utilizando datos de alta calidad para analizar las características fundamentales que influirán en estas decisiones.
+Este proyecto tiene como objetivo respaldar la toma de decisiones de "NewYorkDrive", para implementar una nueva línea de transporte. Se llevará a cabo una investigación exhaustiva, utilizando datos de alta calidad para analizar las características fundamentales que influirán en estas decisiones.
 
 ## Tabla de Contenidos
 
@@ -26,13 +26,13 @@ Este proyecto tiene como objetivo respaldar la toma de decisiones de "NewYorkDri
 
 ## Metodología de Trabajo
 
-Hemos adoptado la metodología ágil Scrum, utilizando herramientas como Trello para la gestión de tareas. Esta metodología nos permite abordar complejidades con iteraciones cortas y entregas incrementales, fomentando la flexibilidad, la adaptación constante y la colaboración entre equipos.
+Hemos adoptado la metodología ágil "Scrum", utilizando herramientas como Trello para la gestión de tareas. Esta metodología nos permite abordar complejidades con iteraciones cortas y entregas incrementales, fomentando la flexibilidad, la adaptación constante y la colaboración entre equipos.
 
-- Semana 1: Esta etapa constituye la puesta en marcha del proyecto y el tratamiento de los datos. Se trazan los objetivos, los alcances del proyecto así como los KPIs a evaluar. Además, se realiza el EDA preliminar de los datos.
+- Semana 1: Esta etapa constituye la puesta en marcha del proyecto y el tratamiento de los datos. Se trazan los objetivos, los alcances del proyecto así como los KPIs a evaluar. Además, de realizar el EDA preliminar en los datos.
     
 - Semana 2: Etapa de Data Engineering. Se crea, se implementa y se automatiza el datawarehouse. Además, se plantean los MVPs del dashboard y de los modelos de Machine Learning preliminares.
     
-- Semana 3: Etapa final. Se completa principalmente el dashboard y se presenta el producto de Machine Learning. Además se realiza la entrega de la documentación y del repositorio completo.
+- Semana 3: Etapa final. Se completa principalmente el dashboard y se presenta el producto de Machine Learning. Además de realizar la entrega de la documentación y del repositorio completo.
 
 ![etl](./Images/image11.png)
 
@@ -61,7 +61,7 @@ A continuación se presenta el diagrama entidad - relación del modelo presente 
 ![er](./Images/er.png)
 
 ## Dashboard
-El dashboard a continuación resume los resultados clave obtenidos durante el proyecto de implementación de vehículos eléctricos en la flota de transporte de "NewYorkDrive". Estos gráficos representan métricas esenciales para evaluar la viabilidad, impacto ambiental y eficiencia del sistema de transporte propuesto.
+El dashboard a continuación, resume los resultados clave obtenidos durante el proyecto de implementación de vehículos eléctricos en la flota de transporte de "NewYorkDrive". Estos gráficos representan métricas esenciales para evaluar la viabilidad, impacto ambiental y eficiencia del sistema de transporte propuesto.
 
 ![DashDeEjemplo](./Images/dashDeEjemplo.png)
 
@@ -90,7 +90,7 @@ Este proyecto representa un paso significativo hacia la transformación del sist
 
 El proyecto comenzó identificando la problemática: la necesidad de expandir el servicio de transporte de pasajeros hacia vehículos más sostenibles. La introducción planteó la visión de la empresa de alinearse con tendencias de mercado y prácticas sostenibles. El equipo de trabajo, conformado por expertos en datos, ingeniería y aprendizaje automático, se ha centrado en la selección y uso de tecnologías adecuadas para abordar esta problemática.
 
-La vida del dato ha sido fundamental, desde la obtención a través de técnicas como web scraping y acceso a APIs, hasta el Análisis Exploratorio detallado para comprender la estructura y la calidad de los datos. La automatización de procesos mediante Cloud Functions y Cloud Scheduler ha asegurado una gestión eficiente y organizada de datos en BigQuery, sentando así las bases para futuros análisis y modelos de Machine Learning.
+La vida del dato ha sido fundamental, desde la obtención a través de técnicas como web scraping y acceso a APIs, hasta el Análisis Exploratorio detallado, para comprender la estructura y la calidad de los datos. La automatización de procesos mediante Cloud Functions y Cloud Scheduler ha asegurado una gestión eficiente y organizada de datos en BigQuery, sentando así las bases para futuros análisis y modelos de Machine Learning.
 
 Este proyecto representa un esfuerzo integral para desarrollar un sistema de transporte más sostenible y eficiente. El enfoque colaborativo, la cuidadosa gestión de datos, el análisis profundo y la definición de KPIs nos han guiado hacia una toma de decisiones informada y estratégica en pos de un futuro más sostenible en el transporte de pasajeros.
 
