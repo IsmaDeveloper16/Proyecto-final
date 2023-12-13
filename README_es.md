@@ -61,9 +61,18 @@ A continuación se presenta el diagrama entidad - relación del modelo presente 
 ![er](./Images/er.png)
 
 ## Dashboard
-El dashboard a continuación, resume los resultados clave obtenidos durante el proyecto de implementación de vehículos eléctricos en la flota de transporte de "NewYorkDrive". Estos gráficos representan métricas esenciales para evaluar la viabilidad, impacto ambiental y eficiencia del sistema de transporte propuesto.
+El dashboard a continuación, resume los resultados clave obtenidos durante el proyecto de implementación de vehículos eléctricos en la flota de transporte de "NewYorkDrive". 
 
-![DashDeEjemplo](./Images/dashDeEjemplo.png)
+![DashDeEjemplo](https://github.com/IsmaDeveloper16/Proyecto-final/assets/109183272/57aa1159-93ec-4781-bc19-73c86985ee07)
+
+Se realizaron 5 hojas:
+- “Estadísticas”, donde se visualizan las estadísticas generales del negocio de los últimos 10 años
+- “ROI”, en donde se analiza el retorno de la inversión de forma comparativa entre los autos a combustión y los autos eléctricos. Para ambos casos, se predijeron las ganancias netas con el modelo de Machine Learning y se calcularon los costos de inversión y combustible según los datos obtenidos.
+- “Eficiencia en Rutas”, gracias a distintos gráficos se evalúan los tiempo promedio de los viajes, las distancias recorridas, y analizar como podríamos mejorar la eficiencia de las rutas gracias a distintas aplicaciones.
+- “Costos de Combustible”, se analiza la diferencia en los costos de carga de un auto a combustible a diferencia de los autos eléctricos. Reflejando claramente una disminución en los costos de combustible si pasamos la flota a eléctricos.
+- “Reducción de emisiones”, donde analizamos tanto los gases emitidos por los autos tanto como la contaminación sonora en la ciudad. 
+
+Podés encontrar el dashboard final en el siguiente link: [dashboard-taxis-NY](https://drive.google.com/file/d/1pT3l3fyY6wDz4gvg4WQEiNGCzplDuKW6/view?usp=sharing)
 
 ## KPIs
 
