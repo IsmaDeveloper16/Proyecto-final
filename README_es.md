@@ -3,7 +3,10 @@
 
 
 ## Contexto
-![taxi-wallpaper](/Images/image-1.png).
+<div align="center">
+    <img src="/Images/image-1.png" alt="Taxis Wallpaper" width="70%">
+</div>
+<br>
 
 La empresa "NewYorkDrive" busca expandirse al transporte de pasajeros con automóviles, explorando la viabilidad de incorporar vehículos eléctricos para reducir la contaminación y mejorar la calidad del aire y sonido en la ciudad de Nueva York.
 
@@ -21,8 +24,10 @@ Este proyecto tiene como objetivo respaldar la toma de decisiones de "NewYorkDri
 - [Conclusión](https://github.com/IsmaDeveloper16/Proyecto-final#Conclusión)
 
 ## Equipo de Trabajo
-
-![equipo](./Images/image.png)
+<div align="center">
+    <img src="./Images/image.png" alt="Equipo" width="80%">
+</div>
+<br>
 
 ## Metodología de Trabajo
 
@@ -34,8 +39,10 @@ Hemos adoptado la metodología ágil "Scrum", utilizando herramientas como Trell
     
 - Semana 3: Etapa final. Se completa principalmente el dashboard y se presenta el producto de Machine Learning. Además de realizar la entrega de la documentación y del repositorio completo.
 
-![etl](./Images/image11.png)
-
+<div align="center">
+    <img src="./Images/image11.png" alt="Work Process" width="80%">
+</div>
+<br>
 
 ## Alcance
 
@@ -58,12 +65,18 @@ Hemos adoptado la metodología ágil "Scrum", utilizando herramientas como Trell
 ## Diagrama de entidad - relación
 
 A continuación se presenta el diagrama entidad - relación del modelo presente en nuestro datawarehouse, Big Query.
-![er](./Images/er.png)
+<div align="center">
+    <img src="./Images/er.png" alt="ER Diagram" width="80%">
+</div>
+<br>
 
 ## Dashboard
 El dashboard a continuación, resume los resultados clave obtenidos durante el proyecto de implementación de vehículos eléctricos en la flota de transporte de "NewYorkDrive". 
 
-![DashDeEjemplo](https://github.com/IsmaDeveloper16/Proyecto-final/assets/109183272/57aa1159-93ec-4781-bc19-73c86985ee07)
+<div align="center">
+    <img src="https://github.com/IsmaDeveloper16/Proyecto-final/assets/109183272/57aa1159-93ec-4781-bc19-73c86985ee07" alt="Dashboard" width="80%">
+</div>
+<br>
 
 Se realizaron 5 hojas:
 - “Estadísticas”, donde se visualizan las estadísticas generales del negocio de los últimos 10 años
@@ -81,17 +94,26 @@ Entre los KPIs que seguimos se encuentran:
 - Retorno de inversión (ROI) esperado.
     - El retorno esperado por la implementación de vehículos eléctricos va a ser de un 20% luego del período de 6 años.
 
-![roi](./Images/roi.png)
+<div align="center">
+    <img src="./Images/roi.png" alt="KPI ROI" width="40%">
+</div>
+<br>
 
 - Reducción de emisión de carbono.
     - La Reducción de Emisiones es un indicador clave de rendimiento que evalúa la efectividad de las medidas adoptadas para reducir las emisiones generadas por los vehículos de combustión.
 
-![combustion](./Images/combustion.png)
+<div align="center">
+    <img src="./Images/combustion.png" alt="KPI Emisiones" width="40%">
+</div>
+<br>
 
 - Eficiencia de las rutas.
     - Nos enfocamos en evaluar la eficiencia de las rutas de los taxis, con el objetivo de optimizar la distancia promedio recorrida por cada viaje.
 
-![Distancia](./Images/Distancia.png)
+<div align="center">
+    <img src="./Images/Distancia.png" alt="KPI Rutas" width="40%">
+</div>
+<br>
 
 ## Conclusión
 
